@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  aws-load-balancer-controller-crds:
+  - apiVersion: v1
+    appVersion: v2.2.4
+    created: "2021-09-27T11:34:24.244402+02:00"
+    description: CRDS for AWS Load Balancer Controller Helm chart for Kubernetes
+    digest: b687f77509245b6c424f946aa624fbad13d870a49f83e87b634d5d686ab9a9f5
+    home: https://github.com/mthoretton/aws-load-balancer-controller-crds
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - eks
+    - alb
+    - load balancer
+    - ingress
+    - nlb
+    name: aws-load-balancer-controller-crds
+    sources:
+    - https://github.com/mthoretton/aws-load-balancer-controller-crds
+    urls:
+    - https://mthoretton.github.io/aws-load-balancer-controller-crds/aws-load-balancer-controller-crds-1.2.7.tgz
+    version: 1.2.7
+generated: "2021-09-27T11:34:24.243602+02:00"

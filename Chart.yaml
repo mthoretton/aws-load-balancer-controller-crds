@@ -7,7 +7,6 @@ home: https://github.com/mthoretton/aws-load-balancer-controller-crds
 icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
 sources:
   - https://github.com/mthoretton/aws-load-balancer-controller-crds
-maintainers: {}
 keywords:
   - eks
   - alb
